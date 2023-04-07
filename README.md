@@ -15,13 +15,6 @@
 * `/chat [message]` Chat with ChatGPT!
 * `/draw [prompt]` Generate an image with the Dalle2 model
 * `/switchpersona [persona]` Switch between optional chatGPT jailbreaks
-   * `random`: Picks a random persona
-   * `chatGPT`: Standard chatGPT mode
-   * `dan`: Dan Mode 11.0, infamous Do Anything Now Mode
-   * `sda`: Superior DAN has even more freedom in DAN Mode
-   * `confidant`: Evil Confidant, evil trusted confidant
-   * `based`: BasedGPT v2, sexy gpt
-   * `oppo`: OPPO says exact opposite of what chatGPT would say
    * `dev`: Developer Mode, v2 Developer mode enabled
 
 * `/private` ChatGPT switch to private mode
